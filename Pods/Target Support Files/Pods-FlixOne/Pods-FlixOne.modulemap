@@ -1,0 +1,6 @@
+framework module Pods_FlixOne {
+  umbrella header "Pods-FlixOne-umbrella.h"
+
+  export *
+  module * { export * }
+}
